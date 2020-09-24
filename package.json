@@ -1,0 +1,16 @@
+{
+  "name": "inventory-management",
+  "version": "1.0.0",
+  "description": "Sample product inventory management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "node",
+    "inventory"
+  ],
+  "author": "Avinash Chourasia | avinashgolu.chourasia@gmail.com",
+  "license": "ISC"
+}
